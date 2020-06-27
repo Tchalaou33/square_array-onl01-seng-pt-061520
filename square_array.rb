@@ -2,7 +2,7 @@
   newArr= []
   array.each do |number|
   puts "I like #{number}."
-  square_array << number **2
+  newArr << number **2
 end
 end
 
